@@ -25,6 +25,7 @@ public class Main {
 		default:
 		{
 			System.out.println("Esta es la opcion por defecto");
+			System.out.println("Mi nombre es Javier");
 		}
 
 	}
