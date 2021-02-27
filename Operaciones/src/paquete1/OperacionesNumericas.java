@@ -9,7 +9,7 @@ public class OperacionesNumericas {
 		resultado=variable1 / 3;
 		
 		System.out.println("El resultado es: " +resultado);
-		
+		System.out.println("Mi nombre es Javier");
 
 	}
 
